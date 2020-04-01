@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="person" uuid="fc10e314-4bf8-4955-8e10-06b41fc3c106">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/person</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="student" uuid="d2a1a7a6-1856-4e89-a778-a1e4f5f48601">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/student</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="passport" uuid="30c446b6-7dd7-4ffe-b0a6-3d319872acc4">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/passport</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="movie" uuid="8ba9ea48-efba-4cca-ba99-50f74526aa5b">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/movie</jdbc-url>
+    </data-source>
+  </component>
+</project>
